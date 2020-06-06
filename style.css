@@ -107,7 +107,7 @@ iframe {
 /* Taste(#news)
 ------------------------------- */
 #news {
-    background-image: url(https://github.com/Kanako-muff/portfolio_01/blob/master/specialtaste-bg.JPG);
+    background-image: url(specialtaste-bg.JPG);
     min-height: 100vh;
 }
 
@@ -166,19 +166,19 @@ article p {
 /* MENU
 ------------------------------- */
 #menu {
-    background-image: url(https://github.com/Kanako-muff/portfolio_01/blob/master/menu-bg.jpg);
+    background-image: url(menu-bg.jpg);
     min-height: 100vh;
 }
 
 /*WILD ANIMALS*/
 #animal {
-    background-image: url(https://github.com/Kanako-muff/portfolio_01/blob/master/animal-bg.jpg);
+    background-image: url(animal-bg.jpg);
     min-height: 100vh;
 }
 
 /*GALLERY*/
 #gallery {
-    background-image: url(https://github.com/Kanako-muff/portfolio_01/blob/master/gallery-bg.JPG);
+    background-image: url(gallery-bg.JPG);
     min-height: 100vh;
 }
 
@@ -207,7 +207,7 @@ article p {
 /* CONTACT
 ------------------------------- */
 #contact {
-    background-image: url(https://github.com/Kanako-muff/portfolio_01/blob/master/contact-bg.jpg);
+    background-image: url(contact-bg.jpg);
     min-height: 100vh;
 }
 
