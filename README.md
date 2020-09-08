@@ -18,12 +18,5 @@ It contains things about my daily life and hobbies so that I can make myself kno
 ・GitHub<br>
 ・Adobe Photoshop
 
-## Man-hours
-画像選定・編集 -Selecting and editing images<br>
-10h
-
-コーディング -Coding<br>
-15h
-
 ## Author
 Kanako-muff
